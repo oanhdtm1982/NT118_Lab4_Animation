@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lab4 - 19521982</string>
+    <string name="menu">Menu</string>
+    <string name="bai1">Bài 1</string>
+    <string name="bai2">Bài 2</string>
+    <string name="bai3">Bài 3</string>
+    <string name="from_xml">From XML</string>
+    <string name="from_code">From Code</string>
+    <string name="fade_in">Fade In</string>
+    <string name="fade_out">Fade Out</string>
+    <string name="blink">Blink</string>
+    <string name="zoom_in">Zoom In</string>
+    <string name="zoom_out">Zoom Out</string>
+    <string name="rotate">Rotate</string>
+    <string name="move">Move</string>
+    <string name="slide_up">Slide Up</string>
+    <string name="bounce">Bounce</string>
+    <string name="combine">Combine</string>
+    <string name="back">Back</string>
+    <string name="new_activity">New activity</string>
+</resources>
